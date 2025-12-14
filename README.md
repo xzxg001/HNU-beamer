@@ -34,6 +34,7 @@ Hi👋 Here are some beamer templates which are secondary creations of [SINTEF P
 ![ZJUT](/gallery/ZJUT.png?raw=true)
   > Thank [Wei Hu](https://github.com/prexhu) for contributing this template!
 
+
 Some of these templates have been submitted to [Overleaf](https://cs.overleaf.com/gallery), please check them here👇
 
 - [The Honk Kong Polytechnic University (PolyU) Beamer Presentation Theme](https://www.overleaf.com/latex/templates/the-honk-kong-polytechnic-university-polyu-beamer-presentation-theme/vywngqprjwrq)
